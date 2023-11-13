@@ -1,0 +1,12 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.product1 , .product2, .product3, .product4{
+    background-image: linear-gradient(to bottom, #FF589B 0%,#FF136F 100%);
+    color: #FFF;
+    border: none;
+    border-radius: 8px; /*rectangle er kona gula sundor kore dei*/
+    padding: 9px 25px;
+    cursor: pointer;
+}
